@@ -1,3 +1,3 @@
-# 02456_deep_learning_fall_2024_exam_project_16_active_learning
+# 02456_dl_fall_2024_exam_project
 
 All Rights Reserved.
